@@ -34,11 +34,11 @@ insan yönetmenin proje yapımından daha zor olduğunu öğrenmiş oldum
 oldukça keyifli (jira hariç) ve bilgilendirici bir proje olduğunu düşünüyorum hem bir proje yönetim aracı deneyimlemiş olduk hemde bir ekip ile çalışmanın zoruluğunu birinci elden deneyimlemiş olduk 
 
 ## Proje belgeleri 
-risk analizi Muhammed Emir AYDIN
-kapsam raporu İsmail YILMAZ
-GDD/Mimari belgesi Serhat Can BAKIR
-Başlatma Raporu Serhat can BAKIR
-iletişim belgesi Emir Duha Nakısçi
-maliyet raporu Emir Duha Nakısçi
-gereksinim raporu Ismail Yılmaz
+risk analizi Muhammed Emir AYDIN <br />
+kapsam raporu İsmail YILMAZ <br />
+GDD/Mimari belgesi Serhat Can BAKIR <br />
+Başlatma Raporu Serhat can BAKIR <br />
+iletişim belgesi Emir Duha Nakısçi <br />
+maliyet raporu Emir Duha Nakısçi <br />
+gereksinim raporu Ismail Yılmaz <br />
 paydaş analizi Muhammed Emir AYDIN
