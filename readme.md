@@ -5,7 +5,7 @@
 
 ### Amaç
 Bu proje yazılım yönetim araçları dersi için tasarlanmış olup dövüş oyunu türünde bir oyun geliştirmeyi daha doğrusu geliştiriyor gibi yapmayı amaçlar.
-Planlanan bu oyun, kendine özgü karakter tasarımları ve block sistemi ile önplana çıkmaya çalışırken bir projenin nasıl yönetildiği hakkında fikir vermiştir.
+Planlanan bu oyun, kendine özgü karakter tasarımları ve block sistemi ile ön plana çıkmaya çalışırken bir projenin nasıl yönetildiği hakkında fikir vermiştir.
 
 
 ## Projede Karşılaşılan Zorluklar 
@@ -40,11 +40,11 @@ Oldukça keyifli (jira hariç) ve bilgilendirici bir proje olduğunu düşünüy
 ## Proje Belgeleri 
 |belge|hazırlayan|içerik|
 |-----|-----|-----------|
-|risk analizi|Muhammed Emir AYDIN |Bu belgede projenin geliştirme aşamasının başından sonuna kadar oluşabilicek riskler belirlenmiştir.|
-|kapsam raporu |İsmail YILMAZ |Bu belgede projenin kapsamı belirlenip geliştirme aşamasında kafa karışıklığı önlenmesi amaçlanmıştır.|
-|GDD/Mimari belgesi| Serhat Can BAKIR |Bu belge hem oyunun nasıl bir görsel ,mekanik ve genel oyun yapısı hakkında fikir verir ayrıca teknik bazı seçimleri açıklar.|
+|risk analizi|Muhammet Emir AYDIN |Bu belgede projenin geliştirme aşamasının başından sonuna kadar oluşabilicek riskler belirlenmiştir.|
+|kapsam raporu |Muhammet Emir Aydın |Bu belgede projenin kapsamı belirlenip geliştirme aşamasında kafa karışıklığı önlenmesi amaçlanmıştır.|
+|GDD/Mimari belgesi| Serhat Can BAKIR |Bu belge hem oyunun nasıl bir görsel tasarıma sahip olacağı hem de mekanik ve genel oyun yapısı hakkında fikir verir ayrıca teknik bazı seçimleri açıklar.|
 |Başlatma Raporu |Serhat can BAKIR| Bu belge projenin başlatılmasını resmi hale getirmeyi amaçlar.|
 |İletişim belgesi| Emir Duha Nakısçi|Bu belge ekip ve paydaşların iletişim planlarını açıklar.|
 |Maliyet raporu |Emir Duha Nakısçi|Projede harcanacak bütçeyi tahmin etmeyi amaçlar.|
-|Gereksinim raporu| Ismail Yılmaz|Projede gereksinim duyulacak sistemleri açıklar|
-|Paydaş analizi| Muhammed Emir AYDIN|Projenin paydaşlarını açıklar|
+|Gereksinim raporu| Ismail Yılmaz|Projede gereksinim duyulacak sistemleri açıklar.|
+|Paydaş analizi| İsmail Yılmaz|Projenin paydaşlarını açıklar.|
