@@ -44,7 +44,7 @@ Oldukça keyifli (jira hariç) ve bilgilendirici bir proje olduğunu düşünüy
 |kapsam raporu |Muhammet Emir Aydın |Bu belgede projenin kapsamı belirlenip geliştirme aşamasında kafa karışıklığı önlenmesi amaçlanmıştır.|
 |GDD/Mimari belgesi| Serhat Can BAKIR |Bu belge hem oyunun nasıl bir görsel tasarıma sahip olacağı hem de mekanik ve genel oyun yapısı hakkında fikir verir ayrıca teknik bazı seçimleri açıklar.|
 |Başlatma Raporu |Serhat can BAKIR| Bu belge projenin başlatılmasını resmi hale getirmeyi amaçlar.|
-|İletişim belgesi| Emir Duha Nakısçi|Bu belge ekip ve paydaşların iletişim planlarını açıklar.|
-|Maliyet raporu |Emir Duha Nakısçi|Projede harcanacak bütçeyi tahmin etmeyi amaçlar.|
+|İletişim belgesi| Emir Duha Nakişci|Bu belge ekip ve paydaşların iletişim planlarını açıklar.|
+|Maliyet raporu |Emir Duha Nakişci|Projede harcanacak bütçeyi tahmin etmeyi amaçlar.|
 |Gereksinim raporu| Ismail Yılmaz|Projede gereksinim duyulacak sistemleri açıklar.|
 |Paydaş analizi| İsmail Yılmaz|Projenin paydaşlarını açıklar.|
